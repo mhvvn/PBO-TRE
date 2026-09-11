@@ -500,4 +500,4 @@ Setelah selesai semua latihan, coba:
 
 ---
 
-*TRE-404 | Pemrograman Berorientasi Objek | Semester 4 | Politeknik Negeri Batam*
+*TRE-404 | Pemrograman Berorientasi Objek | Semester 3 | Politeknik Negeri Batam*
