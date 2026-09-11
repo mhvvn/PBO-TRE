@@ -1,4 +1,4 @@
-# 🚀 Warmup Coding C# — Pertemuan 1
+#  Warmup Coding C# — Pertemuan 1
 ### TRE-404 Pemrograman Berorientasi Objek | Teknologi Rekayasa Elektronika
 
 > Ketik kode di **Visual Studio 2022**, jalankan dengan **Ctrl + F5**  
