@@ -124,10 +124,9 @@ Buatlah algoritma untuk **menentukan kategori nilai mahasiswa**. Program membaca
 - Nilai < 55 → **D**
 
 **Tugas:**
-1. Tuliskan algoritma dalam bentuk **kalimat deskriptif**
-2. Gambarkan **flowchart**-nya
-3. Tuliskan **pseudocode**-nya
-4. Implementasikan dalam **kode C#**
+1. Gambarkan **flowchart**-nya
+2. Tuliskan **pseudocode**-nya
+
 
 ---
 
@@ -153,7 +152,9 @@ Buatlah program yang menampilkan **bilangan genap dari 1 sampai N**, sekaligus m
 - **Repetition** — mengulang dari 1 sampai N
 - **Selection** — mengecek apakah bilangan genap
 
-**Tugas:** Selesaikan dengan ketiga notasi, lalu implementasikan.
+**Tugas:** 
+1. Gambarkan **flowchart**-nya
+2. Tuliskan **pseudocode**-nya
 
 ---
 
@@ -167,11 +168,8 @@ Buat program konversi suhu: baca suhu dalam Celsius, tampilkan hasil konversi ke
 ### Latihan B — Selection
 Buat program yang menentukan apakah sebuah tahun adalah **tahun kabisat**. Aturan: tahun habis dibagi 4 DAN (tidak habis dibagi 100 ATAU habis dibagi 400).
 
-### Latihan C — Repetition
-Buat program yang menghitung **jumlah deret** `1 + 2 + 3 + ... + N` menggunakan perulangan, lalu bandingkan hasilnya dengan rumus cepat `N × (N+1) / 2`.
 
-### Latihan D — Kombinasi
-Buat program **tabel perkalian** dari angka yang diinput user (misal input 5, tampilkan `5 × 1 = 5` sampai `5 × 10 = 50`) menggunakan Repetition, dan beri highlight/tanda khusus pada hasil yang lebih dari 25 menggunakan Selection.
+
 
 ---
 
