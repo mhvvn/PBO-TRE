@@ -139,10 +139,9 @@ Buatlah algoritma untuk **menentukan kategori nilai mahasiswa**. Program membaca
 Buatlah algoritma untuk **menghitung faktorial (N!)**. Program membaca angka N dari user, lalu menghitung hasil perkalian `1 × 2 × 3 × ... × N` menggunakan pengulangan.
 
 **Tugas:**
-1. Tuliskan algoritma dalam bentuk **kalimat deskriptif**
-2. Gambarkan **flowchart**-nya
-3. Tuliskan **pseudocode**-nya
-4. Implementasikan dalam **kode C#**
+1. Gambarkan **flowchart**-nya
+2. Tuliskan **pseudocode**-nya
+
 
 ---
 
