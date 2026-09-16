@@ -177,17 +177,4 @@ Buat program **tabel perkalian** dari angka yang diinput user (misal input 5, ta
 
 ---
 
-# E. RUBRIK PENILAIAN
 
-| Komponen | Bobot | Kriteria |
-|---|---|---|
-| Kalimat Deskriptif | 15% | Langkah logis, lengkap, berurutan dengan benar |
-| Flowchart | 25% | Simbol tepat (Terminal, I/O, Proses, Decision), alur benar, tidak ada garis tumpang tindih |
-| Pseudocode | 15% | Struktur BEGIN-END jelas, sintaks konsisten |
-| Implementasi C# | 35% | Program berjalan tanpa error, hasil sesuai ekspektasi |
-| Latihan Mandiri | 10% | Minimal 3 dari 4 latihan diselesaikan dengan benar |
-
----
-
-*Modul disusun oleh: Muhammad Veven*
-*TRE-404 — Pemrograman Berorientasi Objek | Teknologi Rekayasa Elektronika | Politeknik Negeri Batam*
