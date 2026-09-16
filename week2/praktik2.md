@@ -107,10 +107,9 @@ Pseudocode adalah cara menuliskan algoritma menggunakan bahasa semi-formal yang 
 Buatlah algoritma untuk **menghitung luas dan keliling persegi panjang**. Program membaca panjang dan lebar dari user, lalu menampilkan hasil luas (`panjang × lebar`) dan keliling (`2 × (panjang + lebar)`).
 
 **Tugas:**
-1. Tuliskan algoritma dalam bentuk **kalimat deskriptif**
-2. Gambarkan **flowchart**-nya
-3. Tuliskan **pseudocode**-nya
-4. Implementasikan dalam **kode C#**
+1. Gambarkan **flowchart**-nya
+2. Tuliskan **pseudocode**-nya
+
 
 ---
 
