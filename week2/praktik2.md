@@ -157,8 +157,9 @@ Buatlah program yang menampilkan **bilangan genap dari 1 sampai N**, sekaligus m
 2. Tuliskan **pseudocode**-nya
 
 ---
+### 4 Latihan di atas masuk dalam Laporan
 
-# D. LATIHAN MANDIRI (TUGAS PRAKTIK)
+# D. LATIHAN MANDIRI (TUGAS PRAKTIK) Pilih Salah Satu dan masuk dalam Laporan
 
 Kerjakan soal berikut menggunakan ketiga notasi (kalimat deskriptif, flowchart, pseudocode), lalu implementasikan dalam C#. Kumpulkan hasilnya ke dosen.
 
